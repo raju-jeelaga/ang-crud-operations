@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Jeelaga Rithvik",
+      "email": "anilkumar30003@gmail.com",
+      "password": "sdfsdf",
+      "phone": 9441,
+      "id": 3
+    },
+    {
+      "name": "Jeelagas",
+      "email": "rajujeelaga@gmail.com",
+      "password": "123456",
+      "phone": 123456,
+      "id": 4
+    },
+    {
+      "name": "Raju Jeelaga",
+      "email": "rajujeelaga@gmail.com",
+      "password": "mypassword",
+      "phone": 7416888103,
+      "id": 5
+    },
+    {
+      "name": "Jeelaga Rithvikupou",
+      "email": "anilkumar30003@gmail.com",
+      "password": "sdfsdf",
+      "phone": 9441,
+      "id": 6
+    }
+  ]
+}
